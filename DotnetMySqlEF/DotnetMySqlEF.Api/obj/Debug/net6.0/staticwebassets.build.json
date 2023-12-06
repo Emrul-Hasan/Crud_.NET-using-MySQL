@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DlWd2ubYCvTlcDeNqqgSomgH0cWk2vsGRHkUtHx1yGU=",
+  "Source": "DotnetMySqlEF.Api",
+  "BasePath": "_content/DotnetMySqlEF.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

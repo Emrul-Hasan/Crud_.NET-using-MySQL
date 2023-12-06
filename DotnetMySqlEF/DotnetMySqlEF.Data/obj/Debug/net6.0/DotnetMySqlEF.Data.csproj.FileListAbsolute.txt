@@ -1,0 +1,13 @@
+D:\BNX Networks\DotnetMySqlEF\DotnetMySqlEF.Data\bin\Debug\net6.0\DotnetMySqlEF.Data.deps.json
+D:\BNX Networks\DotnetMySqlEF\DotnetMySqlEF.Data\bin\Debug\net6.0\DotnetMySqlEF.Data.runtimeconfig.json
+D:\BNX Networks\DotnetMySqlEF\DotnetMySqlEF.Data\bin\Debug\net6.0\DotnetMySqlEF.Data.dll
+D:\BNX Networks\DotnetMySqlEF\DotnetMySqlEF.Data\bin\Debug\net6.0\ref\DotnetMySqlEF.Data.dll
+D:\BNX Networks\DotnetMySqlEF\DotnetMySqlEF.Data\bin\Debug\net6.0\DotnetMySqlEF.Data.pdb
+D:\BNX Networks\DotnetMySqlEF\DotnetMySqlEF.Data\obj\Debug\net6.0\DotnetMySqlEF.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\BNX Networks\DotnetMySqlEF\DotnetMySqlEF.Data\obj\Debug\net6.0\DotnetMySqlEF.Data.AssemblyInfoInputs.cache
+D:\BNX Networks\DotnetMySqlEF\DotnetMySqlEF.Data\obj\Debug\net6.0\DotnetMySqlEF.Data.AssemblyInfo.cs
+D:\BNX Networks\DotnetMySqlEF\DotnetMySqlEF.Data\obj\Debug\net6.0\DotnetMySqlEF.Data.csproj.CoreCompileInputs.cache
+D:\BNX Networks\DotnetMySqlEF\DotnetMySqlEF.Data\obj\Debug\net6.0\DotnetMySqlEF.Data.dll
+D:\BNX Networks\DotnetMySqlEF\DotnetMySqlEF.Data\obj\Debug\net6.0\ref\DotnetMySqlEF.Data.dll
+D:\BNX Networks\DotnetMySqlEF\DotnetMySqlEF.Data\obj\Debug\net6.0\DotnetMySqlEF.Data.pdb
+D:\BNX Networks\DotnetMySqlEF\DotnetMySqlEF.Data\obj\Debug\net6.0\DotnetMySqlEF.Data.genruntimeconfig.cache
